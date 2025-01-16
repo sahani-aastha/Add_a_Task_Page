@@ -124,5 +124,6 @@ button:hover {
   position: relative;
   bottom: 130px;
   left: 50px;
+  font-weight: 100;
 }
 
